@@ -25,3 +25,4 @@ eas build --platform android --profile preview
 
 ## Upload Gameplay
 Tap the button to select an `.mp4` screen recording. The app will analyze and display the result. 
+ 
