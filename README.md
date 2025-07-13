@@ -11,18 +11,3 @@ Analyze FPS screen recordings to detect snap‑on aiming behavior on-device.
 ```bash
 npm install
 npm start
-```
--- or --
-```bash
-npx expo start
-npm run android
-```
-
-## Build APK via EAS
-```bash
-eas build --platform android --profile preview
-```
-
-## Upload Gameplay
-Tap the button to select an `.mp4` screen recording. The app will analyze and display the result. 
- 
