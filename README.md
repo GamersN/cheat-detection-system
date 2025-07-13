@@ -11,3 +11,4 @@ Analyze FPS screen recordings to detect snap‑on aiming behavior on-device.
 ```bash
 npm install
 npm start
+ 
